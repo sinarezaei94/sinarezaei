@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Sina+Rezaei;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Sina+Rezaei;Digital+Marketing+and+Social+Media;I'm+Developer+and+Mobile+Developer;I'm+Youtuber+Influencer+Podcaster;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
 # Hi, I'm Sina! 👋
